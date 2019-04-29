@@ -2,9 +2,7 @@
 
 ## EMPRESAS DE SOFTWARE EM SALVADOR
 
-### Maiores informações na wiki
-
-| **Nome**  | **Área de Atuação**  | **Porte**  |  **Contato**  |
+| **Nome**  | **Área de Atuação**  | **Porte**  |  **Contato**  | **Stack** | 
 |---|---|---|---|
-| **Empresa XYZ**(http://teste.com.br) | [Desenvolvimento Web] | Grande | 20203434 |
+| **Empresa XYZ**(http://teste.com.br) | [Desenvolvimento Web] | Grande | 20203434 | (stack) |
 
