@@ -2,10 +2,10 @@
 ==================================================
 POR FAVOR, SÓ POSTE SE A VAGA FOR PARA SALVADOR E CIDADES VIZINHAS!
 
-Não faça distinção de gênero no título da vaga.
+Vamos facilitar o entendimento e usar nosso velho e querido pt-br.
 
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
+Use: "Desenvolvedor Front-End" ao invés de 
+"Front-End Developer" \o/
 
 Exemplo: `[JAVASCRIPT] [MYSQL] [NODE.JS] Front-End Developer na NOME DA EMPRESA`
 ==================================================
